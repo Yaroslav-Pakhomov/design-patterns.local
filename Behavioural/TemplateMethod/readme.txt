@@ -12,4 +12,4 @@ Template Method
 
 3. Реализуем браузер Internet Explorer класс IEBrowser.
 
-4.
+4. Тестируем код.
